@@ -1,4 +1,3 @@
-# Text Editor Starter Code
 # TextEditor-PWA ![MIT License](https://shields.io/badge/license-MIT-yellow)
 
 ## Description
@@ -59,7 +58,7 @@ npm test
 
 ## Questions
   * GitHub Username : Meera-Mohanan
-  * GitHub profile : https://github.com/Meera-Mohanan Text-Editor-Progressive-Web-Applications-PWA- 
+  * GitHub profile : https://github.com/Meera-Mohanan
 
 
 ## Mock Up
