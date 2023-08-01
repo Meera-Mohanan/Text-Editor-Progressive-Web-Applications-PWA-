@@ -90,6 +90,7 @@ The following image shows the application's IndexedDB storage:
 ## URL
 1. The URL of the deployed application in Heroku
 
+https://radiant-sands-72828-b829389a5ec3.herokuapp.com/
 
 2. The URL of the GitHub repository.
 
