@@ -1,5 +1,5 @@
 # Text Editor Starter Code
-# TextEditor-PWA ![GitHub License](https://shields.io/badge/license-ISC-brightgreen)
+# TextEditor-PWA ![MIT License](https://shields.io/badge/license-MIT-yellow)
 
 ## Description
     This application build a text editor that runs in the browser.The app will be a single-page application that meets the PWA criteria. 
