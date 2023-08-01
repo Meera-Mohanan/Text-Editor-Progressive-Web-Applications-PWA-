@@ -76,16 +76,16 @@ The following image shows the application's IndexedDB storage:
 
 ## ScreenShot
 1. The following animation demonstrates the application functionality:
-
+![Text-Editor](<Assets/Images/Screenshot-application functionality.png>)
 
 2. The following image shows the application's manifest.json file:
-
+![Text-Editor](<Assets/Images/Screenshot manifest.json file.png>)
 
 3. The following image shows the application's registered service worker:
-
+![Text-Editor](<Assets/Images/Screenshot sw.png>)
 
 4. The following image shows the application's IndexedDB storage:
-
+![Text-Editor](<Assets/Images/Screenshot IndexedDB storage.png>)
 
 ## URL
 1. The URL of the deployed application in Heroku
